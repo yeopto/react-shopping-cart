@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "./static/js/main.b9ae9414.js",
+    "main.js": "./static/js/main.4fb617b5.js",
     "static/media/CartIcon.svg": "./static/media/CartIcon.4e897e914695b869d5a63bbd6be3cc68.svg",
     "static/media/ErrorIcon.svg": "./static/media/ErrorIcon.94c3d95074d5a51b421af12378f5dc59.svg",
     "index.html": "./index.html",
-    "main.b9ae9414.js.map": "./static/js/main.b9ae9414.js.map"
+    "main.4fb617b5.js.map": "./static/js/main.4fb617b5.js.map"
   },
   "entrypoints": [
-    "static/js/main.b9ae9414.js"
+    "static/js/main.4fb617b5.js"
   ]
 }
