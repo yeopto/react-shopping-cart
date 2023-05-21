@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "./static/js/main.8e3926ae.js",
-    "static/media/CartIcon.svg": "./static/media/CartIcon.4e897e914695b869d5a63bbd6be3cc68.svg",
-    "static/media/TrashCanIcon.svg": "./static/media/TrashCanIcon.0ef776f7f7ab50d0bea69516442b1c43.svg",
-    "static/media/ErrorIcon.svg": "./static/media/ErrorIcon.94c3d95074d5a51b421af12378f5dc59.svg",
-    "index.html": "./index.html",
-    "main.8e3926ae.js.map": "./static/js/main.8e3926ae.js.map"
+    "main.js": "/react-shopping-cart/static/js/main.1d422a41.js",
+    "static/media/CartIcon.svg": "/react-shopping-cart/static/media/CartIcon.4e897e914695b869d5a63bbd6be3cc68.svg",
+    "static/media/TrashCanIcon.svg": "/react-shopping-cart/static/media/TrashCanIcon.0ef776f7f7ab50d0bea69516442b1c43.svg",
+    "static/media/ErrorIcon.svg": "/react-shopping-cart/static/media/ErrorIcon.94c3d95074d5a51b421af12378f5dc59.svg",
+    "index.html": "/react-shopping-cart/index.html",
+    "main.1d422a41.js.map": "/react-shopping-cart/static/js/main.1d422a41.js.map"
   },
   "entrypoints": [
-    "static/js/main.8e3926ae.js"
+    "static/js/main.1d422a41.js"
   ]
 }
